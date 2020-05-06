@@ -2,7 +2,9 @@
 ## A learn in public manifesto
 
 Lately I've been struggling a lot with learning stuff, especially with the lockdown.
+
 This is a fixing attempt.
+
 _(Heavily inspired by [Tania Rascia](https://www.taniarascia.com/learn/))_
 ---
 ### Programming languages
