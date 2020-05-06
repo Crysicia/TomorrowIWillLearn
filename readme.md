@@ -35,7 +35,16 @@ _(Heavily inspired by [Tania Rascia](https://www.taniarascia.com/learn/))_
 #### Data structures
 - ##### Lists
   - [ ] [Arrays](#)
-  - [ ] [Linked lists](#)
+  - [ ] [Singly-linked lists](#)
+  - [ ] [Doubly-linked lists](#)
+- [ ] [Stack](#)
+- [ ] [Queue](#)
+- ##### Trees
+  - [ ] [Binary tree](#)
+  - [ ] [Segment tree](#)
+- [ ] [Heap](#)
+- [ ] [Graph](#)
+- [ ] [Hash table](#)
 #### Design patterns
 ### Electronics
 - [ ] [Arduino](#)
