@@ -46,6 +46,11 @@ _(Heavily inspired by [Tania Rascia](https://www.taniarascia.com/learn/))_
 - [ ] [Graph](#)
 - [ ] [Hash table](#)
 #### Design patterns
+### Web related
+- [ ] [CORS](#)
+- [ ] [JWT](#)
+- [ ] [GraphQL](#)
+
 ### Electronics
 - [ ] [Arduino](#)
 
