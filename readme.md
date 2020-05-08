@@ -6,6 +6,7 @@ Lately I've been struggling a lot with learning stuff, especially with the lockd
 This is a fixing attempt.
 
 _(Heavily inspired by [Tania Rascia](https://www.taniarascia.com/learn/))_
+
 ---
 ### Programming languages
 - [ ] [C](#)
@@ -46,7 +47,10 @@ _(Heavily inspired by [Tania Rascia](https://www.taniarascia.com/learn/))_
 - [ ] [Graph](#)
 - [ ] [Hash table](#)
 #### Design patterns
-### Web related
+
+### Web
+- [ ] [Static Site Generation](#)
+- [ ] [Serverless functions](#)
 - [ ] [CORS](#)
 - [ ] [JWT](#)
 - [ ] [GraphQL](#)
