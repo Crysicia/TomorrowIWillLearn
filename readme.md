@@ -43,10 +43,37 @@ _(Heavily inspired by [Tania Rascia](https://www.taniarascia.com/learn/))_
 - ##### Trees
   - [ ] [Binary tree](#)
   - [ ] [Segment tree](#)
+  - [ ] [Trie](#)
 - [ ] [Heap](#)
 - [ ] [Graph](#)
 - [ ] [Hash table](#)
 #### Design patterns
+- [ ][Factory method](#)
+- [ ][Abstract factory](#)
+- [ ][Builder](#)
+- [ ][Prototype](#)
+- [ ][Singleton](#)
+
+- [ ][Adapter](#)
+- [ ][Bridge](#)
+- [ ][Composite](#)
+- [ ][Decorator](#)
+- [ ][Facade](#)
+- [ ][Flyweight](#)
+- [ ][Proxy](#)
+
+- [ ][Chain of Responsibility](#)
+- [ ][Command](#)
+- [ ][Iterator](#)
+- [ ][Mediator](#)
+- [ ][Memento](#)
+- [ ][Observer](#)
+- [ ][State](#)
+- [ ][Strategy](#)
+- [ ][Template method](#)
+- [ ][Visitor](#)
+
+- [ ][Null Object pattern](#)
 
 ### Web
 - [ ] [Static Site Generation](#)
