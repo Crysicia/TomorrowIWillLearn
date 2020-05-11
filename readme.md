@@ -76,7 +76,7 @@ _(Heavily inspired by [Tania Rascia](https://www.taniarascia.com/learn/))_
 - [ ] [Null Object pattern](#)
 
 ### Web
-- [ ] [Static Site Generation](#)
+- [ ] [Static Site Generatiors](#)
 - [ ] [Serverless functions](#)
 - [ ] [CORS](#)
 - [ ] [JWT](#)
@@ -87,4 +87,5 @@ _(Heavily inspired by [Tania Rascia](https://www.taniarascia.com/learn/))_
 
 ### Concepts/Tooling/Others
 - [ ] [Vim](#)
+- [ ] [Hammerspoon](#)
 - [ ] [Web best practices](#)
